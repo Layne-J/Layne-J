@@ -1,6 +1,8 @@
 # Layne-J
-Here are some of the small projects and proof of knowledge functions I've built.
-Each will be named with their basic function and the language used
+Training to make a job transition into a developer role
 
-Any large projects will be bundled into a relevant file
-Any small projects will be listed independantly
+AWS certified cloud practitioner
+Proficient in Python (3 years)
+Moderately Skilled in C++ (1 year)
+Interested in data structuring, data security, and cloud development
+Interested in learning about app development
