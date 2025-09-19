@@ -1,8 +1,12 @@
 # Layne-J
-Training to make a job transition into a developer role
+Making a career transition into a networking and/or security
 
+CompTIA Network+ Certified
+CompTIA Security+ Certified
 AWS certified cloud practitioner
+
 Proficient in Python (3 years)
-Moderately Skilled in C++ (1 year)
-Interested in data structuring, data security, and cloud development
-Interested in learning about app development
+Proficient in Go (2 years)
+
+Interested in networking, networking security, and cloud development
+Interested in learning low level networking and system design (learning C)
