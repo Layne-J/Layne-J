@@ -1,11 +1,9 @@
 # Layne-J
 Making a career transition into a networking and/or security. Spent a long time in customer focused service industry, training and learning to transition to supporting and building tech infrastructure.
 
-CompTIA Network+ Certified
+training for CCNA
 
-CompTIA Security+ Certified
-
-AWS certified cloud practitioner
+training for AWS cloud practitioner
 
 Proficient in Python (3 years)
 
